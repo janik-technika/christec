@@ -1,0 +1,52 @@
+{
+  "organization": "CHRISTEC s.r.o.",
+  "registration": "IČ: 283 01 897",
+  "seatAddress": "Masarykovo náměstí 208, 763 61 Napajedla",
+  "officeAddress": "Masarykovo náměstí 75, 763 61 Napajedla",
+  "email": "christec@christec.cz",
+  "phone": "+420 602 779 100",
+  "team": [
+    {
+      "id": "kotasek",
+      "name": "Martin Kotásek",
+      "role": "jednatel",
+      "phone": "602 779 100",
+      "email": "martin.kotasek@christec.cz"
+    },
+    {
+      "id": "walderova",
+      "name": "Ing. Thea Walderová",
+      "role": "",
+      "phone": "778 096 630",
+      "email": "thea.walderova@christec.cz"
+    },
+    {
+      "id": "januskova",
+      "name": "Marcela Janušková",
+      "role": "",
+      "phone": "770 183 611",
+      "email": "marcela.januskova@christec.cz"
+    },
+    {
+      "id": "cepek",
+      "name": "Petra Ohnoutková",
+      "role": "",
+      "phone": "773 752 831",
+      "email": "petra.ohnoutkova@christec.cz"
+    },
+    {
+      "id": "jaburkova",
+      "name": "Blanka Jabůrková",
+      "role": "",
+      "phone": "778 492 630",
+      "email": "blanka.jaburkova@christec.cz"
+    },
+    {
+      "id": "blazek",
+      "name": "Ing. Pavel Blažek",
+      "role": "",
+      "phone": "606 777 209",
+      "email": "pavel.blazek@christec.cz"
+    }
+  ]
+}
