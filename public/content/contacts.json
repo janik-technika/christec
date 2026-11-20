@@ -33,6 +33,27 @@
       "role": "",
       "phone": "773 752 831",
       "email": "petra.ohnoutkova@christec.cz"
+    },
+    {
+      "id": "3b9wbu9zmwp3dke9",
+      "name": "Ing.arch. Michal Hladil",
+      "role": "",
+      "phone": "",
+      "email": "hladilmich@gmail.com"
+    },
+    {
+      "id": "re1arhommwp3dm54",
+      "name": "Ing. Tomáš Foltýn",
+      "role": "",
+      "phone": "+420 736 675 275",
+      "email": "foltyn@email.cz"
+    },
+    {
+      "id": "rfqfu9ipmwp3dqh5",
+      "name": "Michaela Velcerová",
+      "role": "",
+      "phone": "",
+      "email": ""
     }
   ]
 }
